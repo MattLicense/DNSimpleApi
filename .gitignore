@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+logs/
+gradle/
+out/
+build/
+
+*.log
+*.iml
+gradlew*
+application.properties

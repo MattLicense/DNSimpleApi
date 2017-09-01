@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "content": "ns1.dnsimple.com admin.dnsimple.com 1429461850 86400 7200 604800 300",
+      "created_at": "2014-10-10T17:43:04Z",
+      "id": 3240622,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": true,
+      "ttl": 3600,
+      "type": "SOA",
+      "updated_at": "2017-09-01T09:04:16Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "ns1.dnsimple.com",
+      "created_at": "2014-10-10T17:43:04Z",
+      "id": 3240623,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": true,
+      "ttl": 3600,
+      "type": "NS",
+      "updated_at": "2014-10-10T17:43:04Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "ns2.dnsimple.com",
+      "created_at": "2014-10-10T17:43:04Z",
+      "id": 3240624,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": true,
+      "ttl": 3600,
+      "type": "NS",
+      "updated_at": "2014-10-10T17:43:04Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "ns3.dnsimple.com",
+      "created_at": "2014-10-10T17:43:04Z",
+      "id": 3240625,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": true,
+      "ttl": 3600,
+      "type": "NS",
+      "updated_at": "2014-10-10T17:43:04Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "ns4.dnsimple.com",
+      "created_at": "2014-10-10T17:43:04Z",
+      "id": 3240626,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": true,
+      "ttl": 3600,
+      "type": "NS",
+      "updated_at": "2014-10-10T17:43:04Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "192.30.252.153",
+      "created_at": "2014-10-10T17:44:58Z",
+      "id": 3240639,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "A",
+      "updated_at": "2016-04-21T19:38:57Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "spool.mail.gandi.net",
+      "created_at": "2014-10-10T17:45:33Z",
+      "id": 3240645,
+      "name": "",
+      "parent_id": null,
+      "priority": 10,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "MX",
+      "updated_at": "2014-10-10T17:45:33Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "fb.mail.gandi.net",
+      "created_at": "2014-10-10T17:45:46Z",
+      "id": 3240646,
+      "name": "",
+      "parent_id": null,
+      "priority": 50,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "MX",
+      "updated_at": "2014-10-10T17:45:46Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "v=spf1 a mx ip4:217.70.176.0/21 ip6:2001:4b98:c::/48 ~all",
+      "created_at": "2014-10-10T17:47:25Z",
+      "id": 3240655,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "SPF",
+      "updated_at": "2014-10-10T17:47:25Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "v=spf1 a mx ip4:217.70.176.0/21 ip6:2001:4b98:c::/48 ~all",
+      "created_at": "2014-10-10T17:47:25Z",
+      "id": 3240656,
+      "name": "",
+      "parent_id": 3240655,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "TXT",
+      "updated_at": "2014-10-10T17:47:25Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "v=spf1 ip4:217.70.176.0/21 ip6:2001:4b98:c::/48 ptr ?all",
+      "created_at": "2014-10-10T17:47:59Z",
+      "id": 3240659,
+      "name": "",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "TXT",
+      "updated_at": "2014-10-10T17:47:59Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "mattlicense.co.uk",
+      "created_at": "2014-10-10T17:50:22Z",
+      "id": 3240678,
+      "name": "www",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "CNAME",
+      "updated_at": "2014-10-10T17:50:22Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "46.101.9.31",
+      "created_at": "2015-04-19T16:43:15Z",
+      "id": 3970351,
+      "name": "jenkins",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "A",
+      "updated_at": "2015-04-19T16:43:23Z",
+      "zone_id": "mattlicense.co.uk"
+    },
+    {
+      "content": "212.108.77.50",
+      "created_at": "2017-08-31T15:27:12Z",
+      "id": 12175527,
+      "name": "dl",
+      "parent_id": null,
+      "priority": null,
+      "regions": [
+        "global"
+      ],
+      "system_record": false,
+      "ttl": 3600,
+      "type": "A",
+      "updated_at": "2017-09-01T09:04:16Z",
+      "zone_id": "mattlicense.co.uk"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 30,
+    "total_entries": 14,
+    "total_pages": 1
+  }
+}
