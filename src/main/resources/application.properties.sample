@@ -1,3 +1,5 @@
 dnsimple.api.url=https://api.dnsimple.com/v2/
 dnsimple.api.clientId=
 dnsimple.api.token=
+dnsimple.api.domain=
+dnsimple.api.subDomain=
